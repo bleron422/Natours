@@ -22,5 +22,6 @@
 
   &:hover {
     transform: translateY(-15px) scale(1.03);
+    background-color: rgba($color-white, 0.9);
   }
 }
